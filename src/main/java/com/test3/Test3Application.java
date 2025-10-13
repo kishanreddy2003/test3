@@ -15,8 +15,10 @@ public class Test3Application {
 		int y=200;
 		double z=10.3;
 		String name="kishan";
+		int a=20;
 		boolean isPresent=false;
 		float m=10.3f;
+		String name="kishan";
 		SpringApplication.run(Test3Application.class, args);
 	}
 
