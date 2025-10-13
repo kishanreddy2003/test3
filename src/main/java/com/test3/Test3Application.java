@@ -16,6 +16,13 @@ public class Test3Application {
 		double z=10.3;
 		boolean isPresent=false;
 		float m=10.3f;
+
+		String name="kishan";
+		int a=20;
+		boolean isPresent=false;
+		float m=10.3f;
+		String name="kishan";
+		char i='n';
 		SpringApplication.run(Test3Application.class, args);
 	}
 
